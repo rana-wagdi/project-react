@@ -18,8 +18,8 @@ const DUMMY_EXPENSES = [
     },
     {
       id: "e3",
-      title: "Book",
-      amount: 294.67 ,
+      title: "A Book",
+      amount: 24.67 ,
       date: new Date(2021, 2, 28),
     },
     {
